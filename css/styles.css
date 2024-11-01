@@ -50,7 +50,7 @@ a {
 }
 
 .nav-item {
-    font-weight: 500;
+    font-weight: 100;
     font-size: 16px;
     line-height: 1.5px;
     letter-spacing: 0.02em;
@@ -74,6 +74,14 @@ a {
 
 .contact-info {
     font-style: normal;
+    
+}
+.mail {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
 }
 
 .contact-info a:hover,
