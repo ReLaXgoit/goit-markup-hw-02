@@ -72,6 +72,10 @@ a {
     color: #404bbf;
 }
 
+.contact-info {
+    font-style: normal;
+}
+
 .contact-info a:hover,
 .contact-info a:focus {
     color: #007bff;
