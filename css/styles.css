@@ -77,6 +77,10 @@ a {
     letter-spacing: 0.02em;
     color: #434455;
 }
+.contacts-link a:hover,
+.contacts-link a:focus {
+    color: #404bbf;
+}
 
 .contacts-info a:hover,
 .contacts-info a:focus {
@@ -146,14 +150,6 @@ a {
 
 .team-list {
     background-color: #FFFFFF;
-}
-
-.team-name {
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
 }
 
 .team-text {
