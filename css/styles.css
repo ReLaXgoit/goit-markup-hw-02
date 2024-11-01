@@ -1,20 +1,18 @@
 /* #region Global Styles */
-/* font-family: 'Roboto',sans-serif; */
-/* font-family: "Raleway", serif; */
 body {
     font-family: "Roboto", sans-serif;
     background-color: #ffffff;
     color: #434455;
 }
 
-ul, ol {
+ul,
+ol {
     list-style-type: none;
 }
 
 a {
     text-decoration: none;
 }
-
 
 /* #endregion Global Styles */
 
@@ -46,8 +44,8 @@ a {
     color: #2e2f42;
 }
 
-.nav-link :hover,
-.nav-link :focus {
+.nav-link:hover,
+.nav-link:focus {
     color: #404bbf;
 }
 
@@ -70,8 +68,8 @@ a {
 
 .contacts-info {
     font-style: normal;
-    
 }
+
 .contacts-link {
     font-weight: 400;
     font-size: 16px;
@@ -91,6 +89,7 @@ a {
 .hero {
     background-color: #2e2f42;
 }
+
 .text {
     font-size: 56px;
     line-height: 1.07px;
@@ -98,6 +97,7 @@ a {
     letter-spacing: 0.02em;
     color: #ffffff;
 }
+
 .btn {
     background-color: #4D5AE5;
     font-weight: 500;
@@ -106,10 +106,12 @@ a {
     color: #ffffff;
     cursor: pointer;
 }
-.btn a:hover,
-.btn a:focus {
+
+.btn:hover,
+.btn:focus {
     background-color: #404BBF;
 }
+
 /* #endregion Hero Section */
 
 /* #region Features Section */
@@ -120,6 +122,7 @@ a {
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
+
 .features-p {
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -130,15 +133,6 @@ a {
 /* #region Team Section */
 .team-section {
     background-color: #F4F4FD;
-}
-
-.section-title {
-    font-weight: 500;
-    font-size: 20px;    
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
-        
 }
 
 .team-list {
@@ -158,6 +152,7 @@ a {
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
+
 /* #endregion Team Section */
 
 /* #region Portfolio Section */
@@ -177,17 +172,20 @@ a {
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
+
 .portfolio-p {
-    font-size: 16;
+    font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-/* #endregion Porfolio Section */
+
+/* #endregion Portfolio Section */
 
 /* #region Footer Section */
 .footer {
     background-color: #2e2f42;
 }
+
 .logo-f {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
@@ -207,6 +205,7 @@ a {
     color: #F4F4FD;
     letter-spacing: 0.02em;
 }
+
 /* #endregion Footer Section */
 
 /* #region Roboto */
@@ -227,4 +226,5 @@ a {
     font-weight: 700;
     font-style: normal;
 }
+
 /* #endregion Roboto */
