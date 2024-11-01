@@ -111,7 +111,7 @@ a {
 /* #endregion Hero Section */
 
 /* #region Features Section */
-.features-name {
+.features-title {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -128,7 +128,7 @@ a {
 
 /* #region Team Section */
 .team_section {
-    background-color: #f4f4fd;
+    background-color: #F4F4FD;
     
 }
 
@@ -147,9 +147,8 @@ a {
 }
 
 .team_item {
-    background-color: #ffffff; 
-    
-    
+    background-color: #FFFFFF; 
+        
 }
 
 .team_header {
