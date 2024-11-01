@@ -1,4 +1,4 @@
-/* #region Global Styles */
+
 body {
     font-family: 'Roboto', sans-serif;
     background-color: #ffffff;
@@ -13,15 +13,6 @@ a {
     text-decoration: none;
 }
 
-
-/* #endregion Global Styles */
-
-/* #region Header */
-.header {
-    margin: 0 auto;
-    background-color: #fff;
-}
-
 .logo {
     font-family: 'Raleway', sans-serif;
     font-weight: 700;
@@ -32,8 +23,8 @@ a {
     color: #4d5ae5;
 }
 
-.logo .header-span {
-    color: #2e2f42;
+.header-span {
+    color:#2E2F42;
 }
 
 
@@ -68,9 +59,6 @@ a {
     color: #007bff;
 }
 
-/* #endregion Header */
-
-/* #region Hero Section */
 .hero {
     background-color: #2e2f42;
 }
@@ -93,9 +81,8 @@ a {
 .button a:focus {
     background-color: #404BBF;
 }
-/* #endregion Hero Section */
 
-/* #region Features Section */
+
 .features-name {
     font-weight: 500;
     font-size: 20px;
@@ -108,9 +95,7 @@ a {
     letter-spacing: 0.02em;
 }
 
-/* #endregion Features Section */
 
-/* #region Team Section */
 .team {
     background-color: #F4F4FD;
 }
@@ -141,9 +126,7 @@ a {
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-/* #endregion Team Section */
 
-/* #region Portfolio Section */
 .portfolio-title {
     font-size: 36px;
     line-height: 1.11;
@@ -165,9 +148,7 @@ a {
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-/* #endregion Porfolio Section */
 
-/* #region Footer Section */
 .footer {
     background-color: #2e2f42;
 }
@@ -190,7 +171,6 @@ a {
     color: #F4F4FD;
     letter-spacing: 0.02em;
 }
-/* #endregion Footer Section */
 
 /* #region Roboto */
 .roboto-regular {
