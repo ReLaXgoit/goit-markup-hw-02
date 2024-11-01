@@ -1,4 +1,5 @@
 /* #region Global Styles */
+/* font-family: 'Roboto',sans-serif; */
 body {
     font-family: 'Roboto', sans-serif;
     background-color: #ffffff;
@@ -17,7 +18,7 @@ a {
 /* #endregion Global Styles */
 
 /* #region Header */
-.header {
+.header-nav {
     margin: 0 auto;
     background-color: #fff;
 }
@@ -32,15 +33,14 @@ a {
     color: #4d5ae5;
 }
 
-.logo .header-span {
+.header-logo .logo-part {
     color: #2e2f42;
 }
 
-
 .nav-link {
-    font-weight: 500px;
+    font-weight: 500;
     font-size: 16px;
-    line-height: 1.5px;
+    line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
@@ -49,34 +49,27 @@ a {
     color: #404bbf;
 }
 
-.nav-item {
-    font-weight: 100;
-    font-size: 16px;
-    line-height: 1.5px;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
-}
 .nav-item a:hover,
 .nav-item a:focus {
     color: #404bbf;
 }
 
-.mail {
+.contacts-item {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
 }
-.mail a:hover,
-.mail a:focus {
+.contacts-item a:hover,
+.contacts-item a:focus {
     color: #404bbf;
 }
 
-.contact-info {
+.contacts-info {
     font-style: normal;
     
 }
-.mail {
+.contacts-link {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
@@ -84,8 +77,8 @@ a {
     color: #434455;
 }
 
-.contact-info a:hover,
-.contact-info a:focus {
+.contacts-info a:hover,
+.contacts-info a:focus {
     color: #007bff;
 }
 
@@ -202,7 +195,7 @@ a {
     color: #4d5ae5;
 }
 
-.footer-logo {
+.footer-part {
     color: #f4f4fd;
 }
 
