@@ -81,7 +81,7 @@ a {
 
 /* #endregion Header */
 
-/* #region Hero Section */
+/* #region Hero Section 1 */
 .hero {
     background-color: #2e2f42;
 }
@@ -110,7 +110,7 @@ a {
 
 /* #endregion Hero Section */
 
-/* #region Features Section */
+/* #region Features Section 2*/
 .features-name {
     font-weight: 500;
     font-size: 20px;
@@ -126,13 +126,13 @@ a {
 
 /* #endregion Features Section */
 
-/* #region Team Section */
-.team_section {
+/* #region Team Section 3*/
+.team-section {
     background-color: #F4F4FD;
     
 }
 
-.section_title {
+.section-title {
     font-size: 36px; 
     line-height: 1.11; 
     text-align: center; 
@@ -141,17 +141,17 @@ a {
     color: #2e2f42; 
 }
 
-.team_list {
+.team-list {
     list-style-type: none; 
     
 }
 
-.team_item {
+.team-item {
     background-color: #FFFFFF; 
         
 }
 
-.team_header {
+.team-header {
     font-weight: 500; 
     font-size: 20px; 
     line-height: 1.2; 
@@ -159,7 +159,7 @@ a {
     color: #2e2f42; 
 }
 
-.team_paragraph {
+.team-paragraph {
     font-size: 16px; 
     line-height: 1.5; 
     letter-spacing: 0.02em; 
