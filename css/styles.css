@@ -1,0 +1,65 @@
+/* #region Global Styles */
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #333;
+    background-color: #f8f9fa;
+    line-height: 1.6;
+    font-size: 16px;
+}
+
+h1,
+h2,
+h3 {
+    font-family: 'Raleway', sans-serif;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+button {
+    cursor: pointer;
+}
+/* #endregion Global Steles */
+/* #region Header */
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #fff;
+}
+.header-logo {
+    font-size: 24px;
+    text-transform: uppercase;
+    color: #333;
+}
+.header-studio {
+    color: #007bff;
+}
+.nav-list  {
+    display: flex;
+    gap: 20px;
+}
+.nav-list a:hover,
+.nav-list a:focus {
+    color: #007bff;
+}
+.contact-info {
+    color: #333;
+}
+.contact-info a:hover,
+.contact-info a:focus {
+    color: #007bff;
+}
+/* #endregion Header */
+/* #region Hero Section */
+
+/* #endregion Hero Section */
