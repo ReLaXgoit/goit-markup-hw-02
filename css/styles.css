@@ -1,8 +1,18 @@
 /* #region Global Styles */
-
-button {
-    cursor: pointer;
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #ffffff;
+    color: #434455;
 }
+
+ul, ol {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+
 
 /* #endregion Global Styles */
 
@@ -22,7 +32,7 @@ button {
     color: #4d5ae5;
 }
 
-.header-logo{
+.logo .header-logo{
     color: #2e2f42;
 }
 
@@ -33,7 +43,10 @@ button {
     line-height: 1.5px;
     letter-spacing: 0.02em;
     color: #2e2f42;
-    margin-right: 20px;
+}
+.nav-link :hover,
+.nav-link :focus {
+    color: #404bbf;
 }
 
 .nav-item {
