@@ -57,6 +57,11 @@ a {
     color: #434455;
 }
 
+.contacts-item :hover,
+.contacts-item :focus {
+    color: #404bbf;
+}
+
 
 .contacts-info {
     font-style: normal;
@@ -147,7 +152,7 @@ a {
     background-color: #FFFFFF;
 }
 
-.team-item {
+.team-title {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
