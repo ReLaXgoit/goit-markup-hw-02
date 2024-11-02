@@ -135,7 +135,10 @@ a {
 }
 
 .team-list {
+    display: flex;
+    justify-content: center;
     list-style-type: none;
+    
 }
 
 .team-name {
