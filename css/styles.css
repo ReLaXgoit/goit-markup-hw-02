@@ -135,8 +135,6 @@ a {
 }
 
 .team-list {
-    display: flex;
-    justify-content: center;
     list-style-type: none;
     
 }
@@ -152,8 +150,7 @@ a {
 
 .team-item {
     background-color: #FFFFFF;       
-    text-align: center;
-    
+    text-align: unset;   
 }
 
 .team-member-name {
