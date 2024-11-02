@@ -69,14 +69,10 @@ a {
     letter-spacing: 0.02em;
     color: #434455;
 }
-.contacts-link a:hover,
-.contacts-link a:focus {
-    color: #404bbf;
-}
 
 .contacts-info a:hover,
 .contacts-info a:focus {
-    color: #007bff;
+    color: #404bbf;
 }
 
 /* #endregion Header */
@@ -147,11 +143,11 @@ a {
     color: #2e2f42;
 }
 
-.team-item {
+.team-list {
     background-color: #FFFFFF;
 }
 
-.team-title {
+.team-item {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
