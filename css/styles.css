@@ -143,15 +143,12 @@ a {
 
 .team-list {
     list-style-type: none; 
-    
+    color: #FFFFFF;
 }
+
+     
 
 .team-item {
-    background-color: #FFFFFF; 
-        
-}
-
-.team-header {
     font-weight: 500; 
     font-size: 20px; 
     line-height: 1.2; 
